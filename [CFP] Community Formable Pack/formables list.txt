@@ -1,0 +1,54 @@
+# Major Formable
+ -BAL Balkan
+ -CEU Celtic Union
+ -EUR European Union
+ -LAM Latium Union
+ -RME Roman Empire
+ -SLA Slavia
+ -ZAP East Slavia
+ -DAN Dravida Nadu
+ -IDO Indochina
+ -UKB Korea -Bolivia
+ -NIG Nigeria
+ -TOU Toucouleur
+ -AMA Americas Union
+ -NAU North American Union
+ -RLP Rio De La Plata
+ -PAG Patria Grande
+ -TIA Turtle Island
+
+
+# Minor Formable
+ -LOT Burgundy
+ -CEI Central Italy
+ -ILL Illyria
+ -RHI Rhine Confederation
+ -TAR Tatarstan
+ -MAC Macedon
+ -MLY Malaysia
+ -NCA North Caucasia ## OVERWRITE ##
+ -RAJ Rajputana
+ -PAK Pakistan
+ -URN Turan
+ -AKA Akanman
+ -HLD Hausaland
+ -KIT Kitara
+ -MAG Maghreb
+ -ORO Oromia
+ -SOM Somalia
+ -GFU Great Fula
+ -ALC Antillean Confederation
+ -ACA Acadia
+ -AND Andes
+ -GLN Great Lake (NA)
+ -MAU Maritime Union
+ -NEM Northeast Megapolis
+ -POC Pacific Oregon California
+ -RUP Rio -Uruguay
+ -PIR Pirate Kingdom
+ -SWC Southwestern Confederation
+
+
+# Not even formable
+ -RUM Rum
+ -TLA Tsalagihi Ayeli

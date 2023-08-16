@@ -1,0 +1,235 @@
+#####################################
+## EXAMPLE
+# TAG = {
+#   color = {RED GREEN BLUE}
+#
+#   country_type = colonial/recognized/unrecognized
+#
+#   tier = principality/grand_principality/kingdom/empire/hegemony
+#
+#   cultures = { culture }
+#   capital = STATE_STATE
+#   is_named_from_capital = yes/no
+# }
+BAL = {
+	#Balkan
+	color = {
+		12
+		12
+		12
+	}
+	country_type = recognized
+	tier = empire
+	cultures = {
+		albanian
+		bosniak
+		bulgarian
+		greek
+		croatian
+		slovene
+		romanian
+	}
+	capital = STATE_EASTERN_THRACE
+}
+
+LOT = {
+	#Burgundy
+	color = {
+		21
+		32
+		43
+	}
+	country_type = recognized
+	tier = empire
+	cultures = {
+		french
+		dutch
+	}
+	capital = STATE_FLANDERS
+}
+
+CEU = {
+	#celtic Union
+	color = {
+		23
+		255
+		63
+	}
+	country_type = recognized
+	tier = empire
+	cultures = {
+		irish
+		scottish
+		welsh
+		breton
+	}
+	capital = STATE_LOWLANDS
+}
+
+CEI = {
+	#Central Italy
+	color = {
+		125
+		171
+		84
+	}
+	country_type = recognized
+	tier = grand_principality
+	cultures = {
+		north_italian
+		south_italian
+	}
+	capital = STATE_EMILIA
+}
+
+EUR = {
+	#  European Union
+	color = {
+		0
+		0
+		0
+	}
+	country_type = unrecognized
+	tier = hegemony
+	cultures = {
+		french
+		english
+		north_german
+		south_german
+		north_italian
+		spanish
+		flemish
+		wallonian
+	}
+	capital = STATE_FLANDER
+}
+
+ILL = {
+	#Illyria
+	color = {
+		21
+		255
+		234
+	}
+	country_type = recognized
+	tier = kingdom
+	cultures = {
+		albanian
+		croat
+		slovak
+		serb
+		bosniak
+	}
+}
+
+LAM = {
+	# latium Union
+	color = {
+		0
+		255
+		0
+	}
+	country_type = recognized
+	tier = empire
+	cultures = {
+		spanish
+		north_italian
+		south_italian
+	}
+	capital = STATE_ROME
+}
+
+RME = {
+	#Roman Empire
+	color = {
+		255
+		23
+		2
+	}
+	country_type = recognized
+	tier = hegemony
+	cultures = {
+		north_italian
+		south_italian
+		greek
+	}
+	capital = STATE_ROME
+	is_named_from_capital = yes
+}
+
+RHI = {
+	# Rhine Confederation
+	color = {
+		23
+		123
+		213
+	}
+	country_type = recognized
+	tier = kingdom
+	cultures = {
+		north_german
+		south_german
+	}
+	capital = STATE_NORTH_RHINE
+	is_named_from_capital = yes
+}
+
+SLA = {
+	#slavia
+	color = {
+		123
+		123
+		123
+	}
+	country_type = recognized
+	tier = hegemony
+	cultures = {
+		polish
+		czech
+		slovak
+		ukrainian
+		russian
+		byelorussian
+		sorb
+		serb
+		croat
+		bosniak
+		slovene
+		bulgarian
+	}
+	capital = STATE_MAZOVIA
+}
+
+TAR = {
+	#Tatarstan
+	color = {
+		21
+		234
+		1
+	}
+	country_type = recognized
+	tier = kingdom
+	cultures = {
+		tatar
+	}
+	capital = STATE_CRIMEA
+}
+
+ZAP = {
+	#East Slavia
+	color = {
+		123
+		123
+		123
+	}
+	country_type = recognized
+	tier = hegemony
+	cultures = {
+		polish
+		lithuanian
+		czech
+		slovak
+		sorb
+	}
+	capital = STATE_MAZOVIA
+}

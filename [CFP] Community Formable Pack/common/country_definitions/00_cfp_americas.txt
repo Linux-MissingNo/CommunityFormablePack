@@ -1,0 +1,293 @@
+#####################################
+## EXAMPLE
+# TAG = {
+#   color = {RED GREEN BLUE}
+#
+#   country_type = colonial/recognized/unrecognized
+#
+#   tier = principality/grand_principality/kingdom/empire/hegemony
+#
+#   cultures = { culture }
+#   capital = STATE_STATE
+#   is_named_from_capital = yes/no
+# }
+AMA = {
+	# Americas Union
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = hegemony
+	culture = {
+		yankee
+		anglo_canadian
+		franco_canadian
+		afro_american
+		mexican
+		north_andean
+		south_andean
+		platinean
+		central_american
+		brazilian
+	}
+	capital = STATE_DISTRICT_OF_COLUMBIA
+}
+
+ALC = {
+	# Antillean Confederation
+	color = {
+		100
+		100
+		100
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		caribeno
+		afro_caribeno
+	}
+	capital = STATE_CUBA
+}
+
+ACA = {
+	# Acadia
+	color = {
+		255
+		0
+		0
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		franco_canadian
+	}
+	capital = STATE_NEW_BRUNSWICK
+}
+
+AND = {
+	#Andes
+	color = {
+		224
+		67
+		89
+	}
+	country_type = colonial
+	tier = kingdom
+	culture = {
+		north_andean
+		south_andean
+	}
+	capital = STATE_CUNDINAMARCA
+}
+
+GLN = {
+	# Great Lake (NA)
+	color = {
+		255
+		0
+		0
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		anglo_canadian
+		franco_canadian
+		yankee
+	}
+	capital = STATE_MICHIGAN
+}
+
+MAU = {
+	# Maritime Union
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = empire
+	culture = {
+		anglo_canadian
+	}
+	capital = STATE_NOVA_SCOTIA
+}
+
+NAU = {
+	#North American Union
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = hegemony
+	culture = {
+		yankee
+		mexican
+		anglo_canadian
+	}
+	capital = STATE_DISTRICT_OF_COLUMBIA
+}
+
+NEM = {
+	#Northeast Megaopolis
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		yankee
+	}
+	capital = STATE_NEW_YORK
+}
+
+RLP = {
+	# Rio De La Plata
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = hegemony
+	culture = {
+		platinean
+		south_andean
+	}
+	capital = STATE_BUENOS_AIRES
+}
+
+PAG = {
+	#Patria Grande
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = hegemony
+	culture = {
+		platinean
+		north_andean
+		south_andean
+		mexican
+		central_american
+	}
+	capital = STATE_MEXICO
+}
+
+POC = {
+	#Pacific oregon california
+	color = {
+		0
+		0
+		255
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		yankee
+		anglo_canadian
+	}
+	capital = STATE_OREGON
+}
+
+RUP = {
+	#Rio-Uruguay
+	color = {
+		101
+		45
+		154
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		platinean
+		brazilian
+	}
+	capital = STATE_URUGUAY
+}
+
+PIR = {
+	# Pirate
+	color = {
+		100
+		100
+		100
+	}
+	country_type = recognized
+	tier = kingdom
+	culture = {
+		english
+		dixie
+	}
+	capital = STATE_HAITI
+}
+
+SWC = {
+	# Southwest Confederation
+	color = {
+		190
+		186
+		202
+	}
+	country_type = colonial
+	tier = kingdom
+	cultures = {
+		dixie
+		mexican
+	}
+	capital = STATE_NEW_MEXICO
+}
+
+TLA = {
+	#Tsalagihi Ayeli
+	color = {
+		0
+		255
+		0
+	}
+	country_type = recognized
+	tier = grand_principality
+	culture = {
+		cherokee
+	}
+	capital = STATE_GEORGIA
+}
+
+TIA = {
+	# Turtle Island
+	color = {
+		0
+		0
+		255
+	}
+	country_type = unrecognized
+	tier = hegemony
+	culture = {
+		cherokee
+		siouan
+		comanche
+		dakota
+		muskogen
+		pueblo
+		cree
+		navajo
+		athabaskan
+		salish
+		nez_perce
+		algonquian
+		iroquoian
+		caddoan
+		paiute
+		hokan
+		apache
+		oodham
+	}
+	capital = STATE_OKLAHOMA
+}

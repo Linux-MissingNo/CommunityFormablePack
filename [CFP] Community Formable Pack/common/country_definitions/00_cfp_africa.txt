@@ -1,0 +1,156 @@
+#####################################
+## EXAMPLE
+# TAG = {
+#   color = {RED GREEN BLUE}
+#
+#   country_type = colonial/recognized/unrecognized
+#
+#   tier = principality/grand_principality/kingdom/empire/hegemony
+#
+#   cultures = { culture }
+#   capital = STATE_STATE
+#   is_named_from_capital = yes/no
+# }
+AKA = {
+	#Akanman
+	color = {
+		23
+		23
+		23
+	}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = {
+		akan
+	}
+	capital = STATE_GHANA
+}
+
+HLD = {
+	# Hausaland
+	color = {
+		225
+		185
+		85
+	}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = {
+		hausa
+	}
+	capital = STATE_OUTER_HAUSALAND
+}
+
+KIT = {
+	#Kitara
+	color = {
+		73
+		94
+		255
+	}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = {
+		baganda
+		Lacustrine
+		bantu
+		ruanda
+		rundi
+		luo
+	}
+	capital = STATE_UGANDA
+}
+
+NIG = {
+	#Nigeria
+	color = {
+		32
+		23
+		23
+	}
+	country_type = unrecognized
+	tier = empire
+	cultures = {
+		hausa
+		yoruba
+		igbo
+	}
+	capital = STATE_NIGERIA
+}
+
+MAG = {
+	#Maghreb
+	color = {
+		234
+		24
+		102
+	}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = {
+		maghrebi
+	}
+	capital = STATE_TUNISIA
+}
+
+ORO = {
+	# Oromia
+	color = {
+		67
+		67
+		103
+	}
+	country_type = unrecognized
+	tier = kingdom
+	culture = {
+		oromo
+	}
+	capital = STATE_OROMIA
+	is_named_from_capital = yes
+}
+
+SOM = {
+	# Somalia
+	color = {
+		213
+		123
+		12
+	}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = {
+		somali
+	}
+	capital = STATE_SOMALILAND
+	is_named_from_capital = yes
+}
+
+TOU = {
+	#Toucouleur
+	color = {
+		32
+		34
+		21
+	}
+	country_type = unrecognized
+	tier = empire
+	cultures = {
+		fulbe
+	}
+	capital = STATE_EASTERN_MALI
+}
+
+GFU = {
+	#Great Fula
+	color = {
+		21
+		102
+		134
+	}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = {
+		fulbe
+	}
+	capital = STATE_SENEGAL
+}
